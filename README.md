@@ -25,4 +25,5 @@ Follow these steps to set up and run the project locally:
    Clone the repository to your local machine by running the following command in your terminal:
    ```sh
    git clone https://github.com/your-username/crypto-price-tracker.git
-
+2. Install any neccessary dependencies.
+3. Run the project locally using npm start.
