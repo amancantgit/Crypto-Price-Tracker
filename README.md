@@ -16,6 +16,7 @@ This project is a real-time cryptocurrency price tracker, it fetches live price 
 - React.js: For building the user interface.
 - Axios: For fetching data from the CoinGecko API.
 - WebSocket: To receive real-time price updates.
+- Tailwind CSS: For styling the components and layout.
 
 ### Installation Steps:
 Follow these steps to set up and run the project locally:
@@ -24,3 +25,4 @@ Follow these steps to set up and run the project locally:
    Clone the repository to your local machine by running the following command in your terminal:
    ```sh
    git clone https://github.com/your-username/crypto-price-tracker.git
+
