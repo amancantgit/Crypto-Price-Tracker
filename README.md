@@ -1,12 +1,31 @@
-# React + Vite
+# Crypto Price Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description:
+This project is a real-time cryptocurrency price tracker built with React.js. It fetches live price data from the CoinGecko API, displays prices in INR, and shows mini graphs (sparklines) for price trends. The prices update every 2 seconds, offering an interface similar to CoinMarketCap.
 
-Currently, two official plugins are available:
+[Crypto Price Tracker](https://your-github-pages-link-here)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Image Description](src/assets/crypto.png)
 
-## Expanding the ESLint configuration
+### `Features`:
+1. Real-time price updates every 2 seconds.
+2. Mini graphs (sparklines) for price trends over 7 days.
+3. Price rates displayed in INR.
+4. Interactive UI with seamless navigation.
+5. Responsive design for all devices.
+6. Built using React.js, Axios, and WebSocket for live updates.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### `Technologies used`: 
+- React.js
+- Axios
+- WebSocket
+- Chart.js
+- HTML/CSS & JavaScript
+
+### Installation Steps:
+Follow these steps to set up and run the project locally:
+
+1. **Clone the repository:**
+   Clone the repository to your local machine by running the following command in your terminal:
+   ```sh
+   git clone https://github.com/your-username/crypto-price-tracker.git
