@@ -10,7 +10,7 @@ This project is a real-time cryptocurrency price tracker, it fetches live price 
 ### `Features`:
 1. Real-time price updates every 2 seconds.
 2. Mini graphs (sparklines) for price trends over 7 days.
-3. Price rates displayed in INR.
+3. Prices are displayed in INR.
 
 ### `Technologies used`: 
 - React.js: For building the user interface.
